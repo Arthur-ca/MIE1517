@@ -2,9 +2,13 @@
 MIE1517-Project_Face Detection
 
 Author: 
+
 Jiahao Chen (jiahaoly.chen@mail.utoronto.ca)
+
 Jing Guo ()
+
 Yayun Yang ()
+
 
 Dataset:
 
