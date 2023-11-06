@@ -5,7 +5,7 @@ Dataset:
 
 Main Dataset: https://www.kaggle.com/datasets/sudarshanvaidya/random-images-for-face-emotion-recognition?select=happiness
 
-CK+: https://www.kaggle.com/datasets/sudarshanvaidya/random-images-for-face-emotion-recognition?select=happiness
+CK+: https://www.kaggle.com/code/shawon10/ck-facial-expression-detection/input
 
 Reference:
 
