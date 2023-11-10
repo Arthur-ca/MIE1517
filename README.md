@@ -18,4 +18,8 @@ CK+: https://www.kaggle.com/code/shawon10/ck-facial-expression-detection/input
 
 Reference:
 
+https://dspace.library.uvic.ca/bitstream/handle/1828/13388/Adil_Mohammed_Adnan_MEng_2021.pdf?sequence=3
+
+https://www.diva-portal.org/smash/get/diva2:952138/FULLTEXT01.pdf
+
 https://www.sciencedirect.com/science/article/pii/S1877050920318019
