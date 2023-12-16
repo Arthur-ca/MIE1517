@@ -1,15 +1,15 @@
 # MIE1517
-MIE1517-Project_Face Detection
+MIE1517-Project_Face Emotion Detection
 
 Author: 
 
 Jiahao Chen (jiahaoly.chen@mail.utoronto.ca)
 
-Jing Guo ()
+Jing Guo (jessi.guo@mail.utoronto.ca)
 
-Yayun Yang ()
+Yayun Yang (yayun.yang@mail.utoronto.ca)
 
-Anson Zhu ()
+Anson Zhu (anson.zhu@mail.utoronto.ca)
 
 Dataset:
 
